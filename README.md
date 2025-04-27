@@ -1,3 +1,5 @@
+![GitHub Banners (4)](https://github.com/user-attachments/assets/f7f8b2ca-c1da-4e11-8b3a-b19898a1cbd0)
+
 # Call Center Dashboard - Power BI Project
 
 ## Problem Statement
