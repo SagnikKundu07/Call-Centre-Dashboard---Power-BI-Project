@@ -97,10 +97,6 @@ The cleaned and transformed dataset was modeled to support KPI tracking and visu
 
 ---
 
-## Data Visualization (Dashboard)
-
-![GitHub Banners (4)](https://github.com/user-attachments/assets/6da3d948-082c-4aff-a766-8a8ca9924391)
-
 Dashboard created in **Microsoft Power BI Desktop**, featuring:
 - Total calls overview
 - Answered vs abandoned analysis
